@@ -1,8 +1,7 @@
 //Завдання 1.Cтворіть об'єкт person за допомогою конструктора з полями name: "John",age: 25
-let person = {
-  name: "John",
-  age: 25,
-};
+let person= Object()
+person.name='John',
+person.age=25
 
 console.log("Завдання 1 ====================================");
 
